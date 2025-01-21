@@ -4,7 +4,7 @@ This repository contains a personal roadmap that represents my own skillset and 
 
 ## Roadmap
 
-![Interdisciplinary Roadmap](roadmap.png)
+![Interdisciplinary Roadmap](roadmap.jpg)
 
 ## Contributing
 
